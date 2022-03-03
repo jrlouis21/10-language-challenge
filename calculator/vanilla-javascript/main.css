@@ -185,56 +185,56 @@ body, main {
 .calculator .buttons .button.one {
   -ms-grid-column: 1;
   grid-column: 1;
-  -ms-grid-row: 3;
-  grid-row: 3;
+  -ms-grid-row: 4;
+  grid-row: 4;
 }
 
 .calculator .buttons .button.two {
   -ms-grid-column: 2;
   grid-column: 2;
-  -ms-grid-row: 3;
-  grid-row: 3;
+  -ms-grid-row: 4;
+  grid-row: 4;
 }
 
 .calculator .buttons .button.three {
   -ms-grid-column: 3;
   grid-column: 3;
-  -ms-grid-row: 3;
-  grid-row: 3;
+  -ms-grid-row: 4;
+  grid-row: 4;
 }
 
 .calculator .buttons .button.plus {
   -ms-grid-column: 4;
   grid-column: 4;
-  -ms-grid-row: 3;
-  grid-row: 3;
+  -ms-grid-row: 4;
+  grid-row: 4;
 }
 
 .calculator .buttons .button.invert {
   -ms-grid-column: 1;
   grid-column: 1;
-  -ms-grid-row: 4;
-  grid-row: 4;
+  -ms-grid-row: 5;
+  grid-row: 5;
 }
 
 .calculator .buttons .button.zero {
   -ms-grid-column: 2;
   grid-column: 2;
-  -ms-grid-row: 4;
-  grid-row: 4;
+  -ms-grid-row: 5;
+  grid-row: 5;
 }
 
 .calculator .buttons .button.decimal {
   -ms-grid-column: 3;
   grid-column: 3;
-  -ms-grid-row: 4;
-  grid-row: 4;
+  -ms-grid-row: 5;
+  grid-row: 5;
 }
 
 .calculator .buttons .button.equal {
   -ms-grid-column: 4;
   grid-column: 4;
-  -ms-grid-row: 4;
-  grid-row: 4;
+  -ms-grid-row: 5;
+  grid-row: 5;
 }
 /*# sourceMappingURL=main.css.map */

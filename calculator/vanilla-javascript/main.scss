@@ -135,35 +135,35 @@ body, main {
             }
             &.one{
                 grid-column: 1;
-                grid-row: 3; 
+                grid-row: 4; 
             }
             &.two{
                 grid-column: 2;
-                grid-row: 3;
+                grid-row: 4;
             }
             &.three{
                 grid-column: 3;
-                grid-row: 3;
+                grid-row: 4;
             }
             &.plus{
                 grid-column: 4;
-                grid-row: 3;
+                grid-row: 4;
             }
             &.invert{
                 grid-column: 1;
-                grid-row: 4;
+                grid-row: 5;
             }
             &.zero{
                 grid-column: 2;
-                grid-row: 4;
+                grid-row: 5;
             }
             &.decimal{
                 grid-column: 3;
-                grid-row: 4;
+                grid-row: 5;
             }
             &.equal{
                 grid-column: 4;
-                grid-row: 4;
+                grid-row: 5;
             }
         }
     }
